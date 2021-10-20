@@ -21,7 +21,7 @@ const fighters = [
 			'vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats',
 		category: 'male',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759125/item-2_s9gj1s_zetloy.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759829/item-2_px2uo8.jpg',
 	},
 	{
 		name: 'Lucha Bros',
@@ -45,7 +45,7 @@ const fighters = [
 			'Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,',
 		category: 'female',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759129/item-4_cqxdft_lks9f2.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759823/item-5_jxdohg.jpg',
 	},
 	{
 		name: 'Young Bucks',
@@ -105,7 +105,7 @@ const fighters = [
 			'Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,',
 		category: 'female',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759125/item-9_f6d4h4_iw4rsr.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759840/item-9_kpkdah.png',
 	},
 ];
 
