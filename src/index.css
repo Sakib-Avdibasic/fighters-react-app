@@ -114,7 +114,7 @@ section {
 }
 
 .fighter .fighter-info .fighter-description {
-	margin-top: 1em;
+	padding-top: 1em;
 	color: #617d98;
 }
 
@@ -145,6 +145,7 @@ section {
 	}
 	.fighter .fighter-info {
 		height: 27.5%;
+		padding-top: 0.3em;
 	}
 	.fighter .fighter-photo {
 		height: 70%;
