@@ -1,11 +1,7 @@
 const Fighter = ({ info, orderNum }) => {
 	return (
 		<article className="fighter">
-			<img
-				src={`./assets/item-${orderNum}.jpg`}
-				alt="Fighter"
-				className="fighter-photo"
-			/>
+			<img src={info.photo} alt="Fighter" className="fighter-photo" />
 			<div className="fighter-info">
 				<div className="general-info">
 					<h3 className="fighter-name">{info.name}</h3>
