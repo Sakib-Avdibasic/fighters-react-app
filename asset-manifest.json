@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fighters-react-app/static/css/main.f3b59f77.chunk.css",
+    "main.js": "/fighters-react-app/static/js/main.78f2c183.chunk.js",
+    "main.js.map": "/fighters-react-app/static/js/main.78f2c183.chunk.js.map",
+    "runtime-main.js": "/fighters-react-app/static/js/runtime-main.adce48fe.js",
+    "runtime-main.js.map": "/fighters-react-app/static/js/runtime-main.adce48fe.js.map",
+    "static/js/2.1fd698af.chunk.js": "/fighters-react-app/static/js/2.1fd698af.chunk.js",
+    "static/js/2.1fd698af.chunk.js.map": "/fighters-react-app/static/js/2.1fd698af.chunk.js.map",
+    "index.html": "/fighters-react-app/index.html",
+    "static/css/main.f3b59f77.chunk.css.map": "/fighters-react-app/static/css/main.f3b59f77.chunk.css.map",
+    "static/js/2.1fd698af.chunk.js.LICENSE.txt": "/fighters-react-app/static/js/2.1fd698af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adce48fe.js",
+    "static/js/2.1fd698af.chunk.js",
+    "static/css/main.f3b59f77.chunk.css",
+    "static/js/main.78f2c183.chunk.js"
+  ]
+}
