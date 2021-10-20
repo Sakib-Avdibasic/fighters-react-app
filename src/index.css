@@ -130,7 +130,7 @@ section {
 	section {
 		-ms-grid-columns: 60vw;
 		grid-template-columns: 60vw;
-		grid-auto-rows: max-content;
+		grid-auto-rows: auto;
 	}
 	.fighter {
 		-webkit-box-orient: vertical;
