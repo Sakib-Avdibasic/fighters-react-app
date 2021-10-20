@@ -103,11 +103,13 @@ section {
 
 .fighter .fighter-info .general-info .fighter-name {
 	text-transform: capitalize;
+	width: 80%;
 }
 
 .fighter .fighter-info .general-info .record {
 	color: var(--bronze);
 	padding-bottom: 0.3em;
+	width: 20%;
 }
 
 .fighter .fighter-info .fighter-description {
@@ -127,7 +129,7 @@ section {
 	section {
 		-ms-grid-columns: 60vw;
 		grid-template-columns: 60vw;
-		grid-auto-rows: auto;
+		grid-auto-rows: max-content;
 	}
 	.fighter {
 		-webkit-box-orient: vertical;
