@@ -1,25 +1,44 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState } from 'react';
+import Menu from './components/Menu';
+import FighterList from './components/FighterList';
+import fighters from './assets/data';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => {
+	const [displayedFighters, setDisplayedFighters] = useState(fighters);
+	const [displayedCategory, setDisplayedCategory] = useState('all');
+
+	const filterFighters = fighterType => {
+		if (fighterType !== 'all') {
+			setDisplayedFighters(
+				fighters.filter(fighter => fighter.category === fighterType)
+			);
+		} else {
+			setDisplayedFighters(fighters);
+		}
+
+		setDisplayedCategory(fighterType);
+	};
+
+	const categories = [
+		'all',
+		...new Set(fighters.map(fighter => fighter.category)),
+	];
+	return (
+		<>
+			<header>
+				<nav>
+					<Menu
+						options={categories}
+						filter={filterFighters}
+						currentFilter={displayedCategory}
+					/>
+				</nav>
+			</header>
+			<main>
+				<FighterList items={displayedFighters} />
+			</main>
+		</>
+	);
+};
 
 export default App;
