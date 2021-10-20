@@ -9,7 +9,7 @@ const fighters = [
 			"I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
 		category: 'male',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634758403/item-1_yvmq2l.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759124/item-1_yvmq2l_mc1vqy.jpg',
 	},
 	{
 		name: 'Ricky Starks',
@@ -21,7 +21,7 @@ const fighters = [
 			'vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats',
 		category: 'male',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634758410/item-2_s9gj1s.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759125/item-2_s9gj1s_zetloy.jpg',
 	},
 	{
 		name: 'Lucha Bros',
@@ -33,7 +33,7 @@ const fighters = [
 			'ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.',
 		category: 'tag team',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634758402/item-3_ke5zss.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759120/item-3_ke5zss_v9xkbt.jpg',
 	},
 	{
 		name: 'Britt Baker',
@@ -45,7 +45,7 @@ const fighters = [
 			'Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,',
 		category: 'female',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634758413/item-4_cqxdft.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759129/item-4_cqxdft_lks9f2.jpg',
 	},
 	{
 		name: 'Young Bucks',
@@ -57,7 +57,7 @@ const fighters = [
 			'Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,',
 		category: 'tag team',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634758417/item-5_c9nomk.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759134/item-5_c9nomk_ucg229.jpg',
 	},
 	{
 		name: 'Kris Statlander',
@@ -69,7 +69,7 @@ const fighters = [
 			'Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,',
 		category: 'female',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634758403/item-6_vwuykp.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759122/item-6_vwuykp_neezxe.jpg',
 	},
 	{
 		name: 'The Butcher & The Blade',
@@ -81,7 +81,7 @@ const fighters = [
 			'Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,',
 		category: 'tag team',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634758409/item-7_zpbr7q.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759122/item-7_zpbr7q_j3gqcz.jpg',
 	},
 	{
 		name: 'Miro',
@@ -93,7 +93,7 @@ const fighters = [
 			'Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,',
 		category: 'male',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634758405/item-8_gxqdjn.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759124/item-8_gxqdjn_asfqhv.jpg',
 	},
 	{
 		name: 'Tay Conti',
@@ -105,7 +105,7 @@ const fighters = [
 			'Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,',
 		category: 'female',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634758407/item-9_f6d4h4.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759125/item-9_f6d4h4_iw4rsr.jpg',
 	},
 ];
 
