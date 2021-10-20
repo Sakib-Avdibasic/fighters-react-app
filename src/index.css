@@ -145,13 +145,13 @@ section {
 	}
 	.fighter .fighter-info {
 		height: 27.5%;
-		padding-top: 0.3em;
 	}
 	.fighter .fighter-photo {
 		height: 70%;
 	}
 	.fighter .fighter-description {
 		font-size: 0.85em;
+		padding-top: 0.3em;
 	}
 	.fighter .general-info {
 		font-size: 0.7em;
