@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Menu from './components/Menu';
 import FighterList from './components/FighterList';
-import fighters from './assets/data';
+import fighters from './data';
 
 const App = () => {
 	const [displayedFighters, setDisplayedFighters] = useState(fighters);

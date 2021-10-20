@@ -2,7 +2,7 @@ const Fighter = ({ info, orderNum }) => {
 	return (
 		<article className="fighter">
 			<img
-				src={`../assets/item-${orderNum}.jpg`}
+				src={`./assets/item-${orderNum}.jpg`}
 				alt="Fighter"
 				className="fighter-photo"
 			/>
