@@ -57,7 +57,7 @@ const fighters = [
 			'Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,',
 		category: 'tag team',
 		photo:
-			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759134/item-5_c9nomk_ucg229.jpg',
+			'https://res.cloudinary.com/dkqrhdu4c/image/upload/v1634759541/item-5_vplvgv.jpg',
 	},
 	{
 		name: 'Kris Statlander',
