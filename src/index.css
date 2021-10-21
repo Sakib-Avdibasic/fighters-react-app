@@ -137,7 +137,7 @@ section {
 		-webkit-box-direction: normal;
 		-ms-flex-direction: column;
 		flex-direction: column;
-		height: 100%;
+		height: max-content;
 	}
 	.fighter .fighter-photo,
 	.fighter .fighter-info {
@@ -149,11 +149,12 @@ section {
 	.fighter .fighter-photo {
 		height: 70%;
 	}
-	.fighter .fighter-description {
+	.fighter .fighter-info .fighter-description {
 		font-size: 0.85em;
 		padding-top: 0.3em;
 	}
 	.fighter .general-info {
+		margin-top: 0.3em;
 		font-size: 0.7em;
 	}
 }
