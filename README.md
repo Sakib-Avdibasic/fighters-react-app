@@ -6,7 +6,7 @@ The site displays a roster of real-life professional wrestlers, and has an optio
 # Things I learned:
 - React state
 - Code modularization with components
-- Production vs deployment
+- Development vs production
 - Basic version control with Git
 
 # Usage
